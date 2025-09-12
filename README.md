@@ -1,0 +1,1 @@
+Esta atividade consiste no tratamento e análise de dados de operações da bolsa, calculando estatísticas gerais de preço em uma aba e extraindo informações de data. Adicionalmente, cria um painel dinâmico em outra aba para analisar o volume de transações e definir o perfil de risco de cada cliente individualmente.
